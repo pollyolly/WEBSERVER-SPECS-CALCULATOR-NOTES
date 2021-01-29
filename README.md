@@ -25,7 +25,7 @@ Given:
 Compute Click frequency of users in seconds 
     -In Google Analytics Audience->Overview 
            Avg. Session Duration( 9min ) * 60 seconds + Avg. Session Duration( 10sec ) = Session Duration ( 550 )
-          Session Duration ( 550 )  / Page / Session ( 4.82 ) = 114 sec (approx. once every 2 minutes)          
+          Session Duration ( 550 )  / Page/Session ( 4.82 ) = 114 sec (approx. once every 2 minutes)          
 Example: 
      15 Request per seconds * 60 seconds * Click Interval in 2 minutes = 1800 Max simultaneous users
      
