@@ -18,7 +18,7 @@ Formula:
 ```
 Note: 
     Rule of thumb for ecommerce is 1 user per minute (60 seconds).
-Given: 
+Given in Google Analytics: 
     Avg. Session Duration (00:09:10)
     Page / Session ( 4.82 )
 
